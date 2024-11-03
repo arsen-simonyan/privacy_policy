@@ -1,3 +1,1 @@
-"# smart_meter_privacy_policy" 
-"# smart_meter_privacy_policy" 
-"# smart_meter_privacy_policy" 
+This is the privacy policy of the Smart Meter app
